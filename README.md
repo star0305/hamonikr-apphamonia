@@ -1,5 +1,8 @@
 # hamonikr-apphamonia
 
+test - 오픈소스 프로젝트 참여 -testa
+
+
 화상회의 프로그램 hamonia
 
 node 8.16.0 이상
